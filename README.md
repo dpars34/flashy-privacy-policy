@@ -22,7 +22,7 @@ Communicate with you about updates, promotions, or relevant app changes.
 We do not sell, trade, or otherwise transfer your personal information to outside parties, except:
 
 Service Providers: We may share your data with trusted third-party service providers who help us operate the app.
-Legal Obligations: If required by law, we may disclose your information to comply with legal obligations or protect the rights and safety of [App Name] and its users.
+Legal Obligations: If required by law, we may disclose your information to comply with legal obligations or protect the rights and safety of Flashy and its users.
 
 ## 4. Data Security
 We implement a variety of security measures to protect your personal information. However, no method of data transmission or storage is 100% secure, and we cannot guarantee its absolute security.
